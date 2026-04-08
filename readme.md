@@ -44,6 +44,6 @@ val x: UserId = someProductId
 
 ## The Kanji
 
-*札* (*ふだ*) is a Japanese word for a small label, tag, or nameplate — the kind
-attached to an object to identify it. A perfect metaphor for a type-safe
-identity system.
+*札* (*ふだ*) is
+a [Japanese word](https://www.japandict.com/%E6%9C%AD#entry-1298970) for label
+or tag.
