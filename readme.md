@@ -44,6 +44,6 @@ val x: UserId = someProductId
 
 ## The Kanji
 
-札 (*fuda*) is a Japanese word for a small label, tag, or nameplate — the kind
+*札* (*ふだ*) is a Japanese word for a small label, tag, or nameplate — the kind
 attached to an object to identify it. A perfect metaphor for a type-safe
 identity system.
